@@ -10,5 +10,13 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "Run a code section in a README.md"
+  "description": "Run a code section in a README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/runme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/runme/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/runme"
 }
