@@ -1,0 +1,14 @@
+{
+  "name": "runme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "runme": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Run a code section in a README.md"
+}
